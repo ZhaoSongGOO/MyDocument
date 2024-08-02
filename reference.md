@@ -1,4 +1,4 @@
-# <a name="gn-reference"></a>GN Reference
+# GN Reference
 
 *This page is automatically generated from* `gn help --markdown all`.
 
